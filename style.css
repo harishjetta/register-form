@@ -1,0 +1,22 @@
+body{
+    background-image: url('background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    background-attachment: fixed;
+    background-color: aqua;
+}
+textarea{
+    background-color: beige;
+}
+input{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: 5px;
+}
+#button{
+    background-color: brown;
+}
+div{
+    text-align: center;
+}
